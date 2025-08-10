@@ -27,19 +27,28 @@ A clean, informative, and responsive website promoting health and wellness for s
 ## 📁 Project Structure
 
 student-health-tips/
+
 │
 ├── index.html # Homepage with navbar
+
 ├── eating-tips.html # Tips for healthy eating
+
 ├── fitness.html # Fitness tips and routines
+
 ├── calculator.html # Health-related calculator (e.g., BMI)
+
 ├── stress-management.html # Time and stress management advice
+
 ├── review.html # Feedback and user review page
 │
 ├── css/
+
 │ └── styles.css # All custom styling
 │
 └── assets/
+
 ├── images/ # All image files
+
 └── fonts/ # custom fonts
 
 ---
@@ -69,21 +78,29 @@ Open it with any modern web browser
 
 No installation or setup needed — just open and go.
 
+---
 
-🙋‍♀️ Who is it for?
+
+**##🙋‍♀️ Who is it for?**
 Students creating academic or portfolio projects
 
 Beginners learning frontend development
 
 Anyone interested in student health awareness
 
-👨‍💻 Author
+---
+
+**##👨‍💻 Author**
 the-fei – GitHub profile
 
-📄 License
+---
+
+**##📄 License**
 This project is licensed under the MIT License.
 
-🤝 Contributions
+---
+
+**##🤝 Contributions**
 Contributions, suggestions, and feedback are welcome!
 Feel free to fork this repo and open a pull request.
 

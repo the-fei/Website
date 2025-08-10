@@ -6,7 +6,7 @@ This project is designed to help students maintain a balanced and healthy lifest
 ---
 
 ## 🌐 Live Demo
-*(Optional: Add link here if hosted)*  
+
 [View the Website](#)
 
 ---
@@ -57,4 +57,4 @@ student-health-tips/
 │
 └── assets/
     ├── images/             # Optional image files
-    └── scripts/            # (If any JS is added later)
+    └── 

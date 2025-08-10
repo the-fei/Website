@@ -81,7 +81,7 @@ No installation or setup needed — just open and go.
 ---
 
 
-##**🙋‍♀️ Who is it for?**
+## **🙋‍♀️ Who is it for?**
 
 Students creating academic or portfolio projects
 
@@ -91,19 +91,19 @@ Anyone interested in student health awareness
 
 ---
 
-##**👨‍💻 Author**
+## **👨‍💻 Author**
 
 the-fei – GitHub profile
 
 ---
 
-##**📄 License**
+## **📄 License**
 
 This project is licensed under the MIT License.
 
 ---
 
-##**🤝 Contributions**
+## **🤝 Contributions**
 
 Contributions, suggestions, and feedback are welcome!
 Feel free to fork this repo and open a pull request.

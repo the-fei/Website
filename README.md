@@ -57,4 +57,41 @@ student-health-tips/
 │
 └── assets/
     ├── images/             # Optional image files
-    └── 
+    └──
+
+## 🛠️ Installation
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/the-fei/student-health-tip-website.git
+Navigate to the project folder:
+
+cd student-health-tip-website
+Open index.html in your browser.
+
+🤝 Contributing
+Contributions are welcome! If you have tips to share or ideas to improve the site, feel free to:
+
+Fork the repo
+
+Create a new branch
+
+Make your changes
+
+Submit a pull request
+
+📄 License
+This project is open source and available under the MIT License.
+
+👩‍💻 Author
+Helina Asigbey
+GitHub: @the-fei
+Email: iamafei68@gmail.com
+
+🙌 Acknowledgements
+Thanks to health organizations and student communities for the inspiration and content ideas.
+
+
+

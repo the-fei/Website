@@ -58,8 +58,7 @@ student-health-tips/
 └── assets/
     ├── images/             # Optional image files
     └──
-
-## 🛠️ Installation
+**## 🛠️ Installation**
 
 To run this project locally:
 
@@ -71,7 +70,7 @@ Navigate to the project folder:
 cd student-health-tip-website
 Open index.html in your browser.
 
-🤝 Contributing
+**🤝 Contributing**
 Contributions are welcome! If you have tips to share or ideas to improve the site, feel free to:
 
 Fork the repo
@@ -82,15 +81,15 @@ Make your changes
 
 Submit a pull request
 
-📄 License
+**📄 License**
 This project is open source and available under the MIT License.
 
-👩‍💻 Author
+**👩‍💻 Author**
 Helina Asigbey
 GitHub: @the-fei
 Email: iamafei68@gmail.com
 
-🙌 Acknowledgements
+**🙌 Acknowledgements**
 Thanks to health organizations and student communities for the inspiration and content ideas.
 
 

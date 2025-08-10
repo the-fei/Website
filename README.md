@@ -1,126 +1,91 @@
 # 🧠 Student Health Tips Website
 
-Welcome to the **Student Health Tips** website repository!  
-This project is designed to help students maintain a balanced and healthy lifestyle by providing easy access to resources and guidance on fitness, nutrition, stress management, and time organization.
+A clean, informative, and responsive website promoting health and wellness for students. It covers essential areas like nutrition, fitness, stress management, and more. Built as a static website using modern frontend technologies.
 
 ---
 
 ## 🌐 Live Demo
 
-[View the Website](#)
+[🔗 View the Live Site](#)  
+
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-- **HTML** – Structure and content of the site
-- **CSS** – Styling and basic animations
+| Area        | Tech Used           |
+|-------------|---------------------|
+| Frontend    | HTML5, CSS3         |
+| Hosting     | GitHub Pages |
+| Design Style| Responsive Web Design (RWD), Flexbox, Grid |
+| Assets      | Custom Icons & Images |
 
----
-
-## 📄 Features
-
-### 🏠 Animated Home Page
-- Engaging and interactive welcome page with smooth animations to enhance user experience.
-
-### 🏋️ Fitness Page
-- Tips and routines to help students stay physically active with minimal equipment or gym access.
-
-### 🍎 Healthy Eating Page
-- Nutritional advice and sample meal plans for students on a budget or with time constraints.
-
-### 📱 Calculator Page
-- Simple tools to calculate BMI and calorie needs based on user input.
-
-### 🌟 Review Page
-- Feedback and testimonials section where users can leave their thoughts and suggestions.
-
-### 🧘 Stress & Time Management Page
-- Practical tips for managing academic stress, prioritizing tasks, and staying mentally healthy.
+> No frameworks or libraries used — this project focuses on core frontend development.
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
-```bash
 student-health-tips/
 │
-├── index.html              # Home page (animated)
-├── fitness.html
-├── eating.html
-├── calculator.html
-├── review.html
+├── index.html # Homepage with navbar
+├── eating-tips.html # Tips for healthy eating
+├── fitness.html # Fitness tips and routines
+├── calculator.html # Health-related calculator (e.g., BMI)
+├── stress-management.html # Time and stress management advice
+├── review.html # Feedback and user review page
+│
+├── css/
+│ └── styles.css # All custom styling
+│
+└── assets/
+├── images/ # All image files
+└── fonts/ # custom fonts
 
 ---
-# 🤝 Contributing
 
-We welcome contributions! To contribute:
+## 🎯 Features
 
-1. Fork the repository.
-2. Create a new branch:
+- ✅ Clean homepage with navigation bar
+- ✅ Separate pages for each health topic
+- ✅ User-friendly and responsive design
+- ✅ Basic health calculator (BMI, etc.)
+- ✅ Student-focused tips for managing stress and time
+- ✅ Review/feedback section for users
 
+---
+
+## 🧰 How to Use
+
+1. **Clone the repository**
    ```bash
-   git checkout -b feature/your-feature-name
-Make your changes.
+   git clone https://github.com/the-fei/student-health-tips.git
+   cd student-health-tips
+Open the homepage
 
-Commit and push:
+Locate index.html in your file explorer
 
-bash
+Open it with any modern web browser
 
-git commit -m "Add: your message"
-git push origin feature/your-feature-name
-Open a Pull Request.
+No installation or setup needed — just open and go.
 
 
-📜 License
+🙋‍♀️ Who is it for?
+Students creating academic or portfolio projects
+
+Beginners learning frontend development
+
+Anyone interested in student health awareness
+
+👨‍💻 Author
+the-fei – GitHub profile
+
+📄 License
 This project is licensed under the MIT License.
-See the LICENSE file for details.
 
-🙌 Acknowledgements
-Thanks to everyone who contributes to student wellness and open educational resources.
-Special appreciation for open-source communities and educators promoting well-being. 💚
-
-🌟 Support
-If you found this project useful:
-
-⭐️ Star the repository on GitHub
-
-📢 Share it with your classmates or campus community
-
-Your support helps it grow!
-
-📫 Contact
-Have suggestions or questions?
-
-GitHub: @the-fei
-
-Email: Iamafei68@gmail.com
-
-Stay healthy, stay focused! 💪🎓
-
-🚀 Installation
-To get started with this project:
-
-Clone the repository:
-
-git clone https://github.com/yourusername/student-health-tips.git
-cd student-health-tips
-Or download the ZIP file and extract it manually.
-
-No additional setup required — just explore the tips in the tips/ directory.
-
-📖 Usage
-This project contains categorized student health tips in Markdown format. You can:
-
-📘 Read them directly from the tips/ folder
-
-🧠 Integrate them into student wellness programs
-
-🌐 Share them on campus portals or blogs
-
-🖨️ Print them as part of awareness material
-
-
+🤝 Contributions
+Contributions, suggestions, and feedback are welcome!
+Feel free to fork this repo and open a pull request.
 
 
 
